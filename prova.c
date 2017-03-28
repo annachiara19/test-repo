@@ -8,4 +8,15 @@ int main (){
 	printf ("New print");
 	printf ("New print");
 	printf ("New print");
+	printf ("New print");
+	printf ("New print");
+	printf ("New print");
+	printf ("New print");
+	printf ("ciao");
+	printf ("ciao");
+	printf ("ciao");
+	printf ("ciao");
+	printf ("ciao");
+	printf ("ciao");
+	
 }
