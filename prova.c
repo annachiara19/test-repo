@@ -18,6 +18,5 @@ int main (){
 	printf ("ciao");
 	printf ("ciao");
 	printf ("ciao");
-	printf ("solo master");
-	
+	printf ("solo annadev");
 }
